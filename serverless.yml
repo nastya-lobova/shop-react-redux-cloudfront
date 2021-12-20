@@ -1,10 +1,11 @@
-service: node-in-aws-web
+service: product-ui
 
 frameworkVersion: '2'
 
 provider:
   name: aws
-  runtime: nodejs12.x
+  runtime: nodejs14.x
+  region: eu-west-1
   # setup profile for AWS CLI.
   # profile: node-aws
 

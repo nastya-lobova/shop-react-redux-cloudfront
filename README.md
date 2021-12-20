@@ -46,6 +46,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Website
 
-[CloudFront URL](https://d13uz64c4r3vvs.cloudfront.net/)
+[CloudFront URL](https://dnavv5cnn7cxf.cloudfront.net/)
 
 [S3-website](http://bathroom-paper-app.s3-website-us-east-1.amazonaws.com)
